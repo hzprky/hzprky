@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hzprky
-- 👀 I’m interested in shortwave software
-- 🌱 I’m currently learning python
+- 👀 I’m interested in software for shortwave listening
+- 👀 I'm writing some software for Sharp Pocket computer PC-1600
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
